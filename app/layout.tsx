@@ -26,8 +26,7 @@ export default function RootLayout({
            href={"/create"}>Add New</Link>
         </header>
           {children}
-          {children}
-        </div>
+        </div> 
       
       </body>
     </html>
